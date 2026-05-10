@@ -16,6 +16,12 @@ Analyzes materials with the highest wastage to identify inefficiencies in invent
 ### 3. Material Credit Back Analysis
 Identifies materials returned to the warehouse due to over-issuance or unused stock.
 
+Each analysis is supported by a separate SQL script:
+
+- commonly_used_materials.sql
+- wastage_analysis.sql
+- credit_back_analysis.sql
+  
 ---
 
 ## Data Source & Extraction Process
