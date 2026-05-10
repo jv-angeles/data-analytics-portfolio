@@ -1,4 +1,6 @@
-# Aircraft Materials Analysis Project
+# Aircraft Materials Inventory Analysis Portfolio
+
+This project contains three (3) SQL-based analyses on aircraft maintenance materials to understand usage patterns, wastage, and credit-back activity using ERP data extracted from Quantum Control.
 
 ## Overview
 This project analyzes aircraft maintenance materials to identify usage patterns and material wastage. The objective is to support improved inventory planning, reduce inefficiencies, and enhance operational decision-making in aircraft maintenance processes.
