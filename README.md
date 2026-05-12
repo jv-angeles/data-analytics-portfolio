@@ -62,6 +62,10 @@ The cleaned dataset was imported into PostgreSQL, where all analysis was perform
 
 The datasets used in this project are confidential and proprietary to the customer. In compliance with data privacy and confidentiality requirements, the raw datasets are not included in this repository. Only SQL queries and analysis outputs are shared.
 
+## Data
+
+The dataset used in this project is derived from real aviation MRO operational data. All aircraft registrations and identifying information have been anonymized to honor company data privacy standards. 
+The data structure, part numbers, quantities, and operational fields reflect real-world materials management workflows.
 ---
 
 ## Analysis Performed
